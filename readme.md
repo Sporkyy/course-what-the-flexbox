@@ -6,3 +6,5 @@
 |    05 | [index](./05-ordering/index.html)                | [style](./05-ordering/style-TODD.css)                | 2019-09-04 |
 |    06 | [index](./06-alignment-and-centering/index.html) | [style](./06-alignment-and-centering/style-TODD.css) | 2019-09-06 |
 |    07 | [index](./06-alignment-and-centering/index.html) | [style](./06-alignment-and-centering/style-TODD.css) | 2019-09-06 |
+|    08 | [index](./06-alignment-and-centering/index.html) | [style](./06-alignment-and-centering/style-TODD.css) | 2019-09-06 |
+|    09 | [index](./06-alignment-and-centering/index.html) | [style](./06-alignment-and-centering/style-TODD.css) | 2019-09-06 |
