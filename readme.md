@@ -8,3 +8,4 @@
 |    07 | [index](./06-alignment-and-centering/index.html) | [style](./06-alignment-and-centering/style-TODD.css) | 2019-09-06 |
 |    08 | [index](./06-alignment-and-centering/index.html) | [style](./06-alignment-and-centering/style-TODD.css) | 2019-09-06 |
 |    09 | [index](./06-alignment-and-centering/index.html) | [style](./06-alignment-and-centering/style-TODD.css) | 2019-09-06 |
+|    10 | [index](./10-flexbox-sizing/index.html)          | [style](./10-flexbox-sizing/style-TODD.css)          | 2019-09-09 |
