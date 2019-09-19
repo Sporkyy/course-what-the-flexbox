@@ -1,0 +1,76 @@
+/* Some CSS Setup - nothing to do with flexbox */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-image: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 20px 5px;
+}
+a:hover {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+/* Our flex container */
+.slider-nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Our first flex item */
+.slider-nav li {
+  /* align-items: center; */
+  /* border: 1px solid red; */
+  display: flex; /* Flex container-ish */
+  flex: 2; /* Flex item-ish */
+  /* text-align: center; */
+}
+
+.slider-nav li.arrow {
+  flex: 1;
+}
+
+.arrow a {
+  font-size: 30px;
+}
+
+.slider-nav a {
+  /* align-self: center; */
+  display: flex;
+  width: 100%;
+  /* We want to stretch + center */
+  align-items: center;
+  justify-content: center;
+}
+
+/* This is the flex item */
+.slider-nav span {
+  text-align: center;
+}
